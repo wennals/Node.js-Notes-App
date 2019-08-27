@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Second note",
+        "body": "This is the second note"
+    },
+    {
+        "title": "First note after refactor",
+        "body": "This the first note created after refactoring the notes.js code which removed all the standard functions statements and replaced them with the ES6 method definition syntax or concise arrow functions"
+    }
+]
